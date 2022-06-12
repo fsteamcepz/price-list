@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Course.Program" Collapsed="true">
+    <Position X="7" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgIAAAgAAQACCIAAiACAYUAwAAAAAAIAANYIBACM=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Music" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACACAAIAEAACAAQAAAAEABQAAAAAAAAAQAAAAEAAAAA=</HashCode>
+      <FileName>Music.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Material" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAUAAAAAAAAAAAgAgA=</HashCode>
+      <FileName>Material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Film" Collapsed="true">
+    <Position X="9" Y="3.75" Width="2.25" />
+    <InheritanceLine Type="Course.Material" FixedToPoint="true">
+      <Path>
+        <Point X="8.25" Y="2.812" />
+        <Point X="8.25" Y="3.375" />
+        <Point X="10.125" Y="3.375" />
+        <Point X="10.125" Y="3.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACAGAAAAFAAAgAAAAIAAABQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Film.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

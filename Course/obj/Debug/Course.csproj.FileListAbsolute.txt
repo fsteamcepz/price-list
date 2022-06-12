@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\repos_c#\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\repos_c#\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\repos_c#\Course\Course\bin\Debug\Course.exe.config
+C:\Users\User\source\repos\repos_c#\Course\Course\bin\Debug\Course.exe
+C:\Users\User\source\repos\repos_c#\Course\Course\bin\Debug\Course.pdb
+C:\Users\User\source\repos\repos_c#\Course\Course\obj\Debug\Course.exe
+C:\Users\User\source\repos\repos_c#\Course\Course\obj\Debug\Course.pdb

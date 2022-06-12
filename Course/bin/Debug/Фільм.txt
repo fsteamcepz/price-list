@@ -1,0 +1,7 @@
+1|Spider-Man: No way home|John Watts|Tom Holland|fhd|2021|200
+2|Reminiscence|Lisa Joy|Hugh Jackman|fhd|2021|68
+3|Jumanji: The next level|Jake Kasdan|Dwayne Johnson|fhd|2019|132
+4|Army of Thieves|Matthias S.|Matthias S.|hd|2021|7
+5|Back to the Future|Robert Z.|Michael Fox|fhd|1985|19
+6|Ready Player One|Steven S.|Tye Sheridan|fhd|2018|175
+7|365 Days: This Day|Barbara B.|Anna Sieklucka|fhd|2022|150
